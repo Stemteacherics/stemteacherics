@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+    <body style="background-color:powderblue;">
+
+
+        <h1 style="text-align:center;color:Pink;background-color:purple">
+        Welcome to Digital Learning Class!
+        </h1>
+
+        <pre style="text-align:center;">
+        My name is Ms. Hayden
+        </pre>
+
+        <h2>Links to some websites
+        </h2>
+
+        <ol>
+          <li style="color:orange;font-family:Lucida Calligraphy">
+          <a style="color:orange"; href="https://www.scratch.mit.edu">
+          Scratch
+          </a>
+        </li>
+
+          <li style="color:purple">
+          <a style="color:purple"; href="https://www.python.qubitscs.com">
+          Python
+          </a>
+          </li>
+         
+           <li style="color:green;">   
+          <a href="https://www.sites.google.com"> 
+          <button style="font-family:algerian;color:green;font-size:120%"> 
+          Google Slides 
+          </button> 
+          </a>  
+          </li>
+        </ol> 
+        
+        <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" 
+        src="https://upload.wikimedia.org/wikipedia/commons/0/06/Forget_me_not.jpg" width="965" height="760"></body>
+      </img>
+        
+        
+        
+        
+        <p>
+        These are my favorite flowers
+        </p>
+        </body>
